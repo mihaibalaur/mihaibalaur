@@ -1,4 +1,4 @@
-### <h1 align="center"> print("Hi, I'm Mihai 👋")</h1>
+### <h1 align="center"> "Hi, I'm Mihai 👋 </h1>
 
 ## About me ✍️
 <p align="left">I'm a passionate junior software developer.
