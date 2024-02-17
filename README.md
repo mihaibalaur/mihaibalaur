@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi, I'm Mihai 👋
+
+## About me ✍️
+<p align="left">I'm a passionate junior software developer.
+<!--   who likes to build new projects using different technologies. Fast learner. I enjoy the process of studying about anything that I need in order to solve a problem. -->
+</p>
 
 <!--
 **mihaibalaur/mihaibalaur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
