@@ -1,11 +1,11 @@
 ### <h1 align="center"> "Hi, I'm Mihai 👋 </h1>
 
-### <h3 align="left"> About me ✍️ </h3>
+### About me ✍️
 <p align="left">I'm a passionate junior software developer.
 <!--   who likes to build new projects using different technologies. Fast learner. I enjoy the process of studying about anything that I need in order to solve a problem. -->
 </p>
 
-# <h3 align="left"> Tools & Technologies </h3>
+### Tools & Technologies
 <!--
 **mihaibalaur/mihaibalaur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
