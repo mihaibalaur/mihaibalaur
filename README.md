@@ -16,9 +16,9 @@
  
 **Version Control:** `Git` `GitLab`
 
-**Testing:** `Cypress` `Postman` 
-
 **Infrastructure:** `Docker` `Kubernetes`
+
+**Testing:** `Cypress` `Postman` 
 
 **Others:** `PowerBI` `Excel - Exploratory Data Analysis`
 
