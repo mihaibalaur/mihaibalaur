@@ -29,9 +29,11 @@
 ## Contact 📧
 <p align="left">
     <a href="https://www.linkedin.com/in/mihaibalaur/" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+        <img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Black/LinkedIN_black.png"
             alt="https://www.linkedin.com/in/mihaibalaur/" height="30" width="40" />
     </a>
+    <a href="mailto:mihai.balaur23@gmail.com">S</a>
+
 </p>
 
 
