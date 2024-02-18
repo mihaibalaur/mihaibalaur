@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there! I'm Mihai <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-## <h3 align="left"> About me ✍️ </h3> ##
+### <h3 align="left"> About me ✍️ </h3> ##
 <p align="left">I'm a 25-year old software developer, based in Romania. </p>
 <!--   who likes to build new projects using different technologies. Fast learner. I enjoy the process of studying about anything that I need in order to solve a problem. -->
 
