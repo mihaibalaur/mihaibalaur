@@ -3,16 +3,12 @@
 </h1>
 
 ## About me ✍️
-<p align="left">
-    I'm a 25-year old software developer, based in Romania.
-    🎬 I'm
-💪🏽
-</p>
+-  I'm a 25-year old software developer, based in Romania.
 
-<!--   who likes to build new projects using different technologies. Fast learner. I enjoy the process of studying about anything that I need in order to solve a problem. -->
-
-🎬
-💪🏽
+!<--
+-  In my free time, I enjoy hitting the gym 💪🏽
+-  I enjoy watching horror movies 🎬
+-->
 
 ## Tools & Technologies ⚙
 
@@ -29,26 +25,9 @@
 ## Contact 📧
 <p align="left">
     <a href="https://www.linkedin.com/in/mihaibalaur/" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Black/LinkedIN_black.png"
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="https://www.linkedin.com/in/mihaibalaur/" height="30" width="40" />
     </a>
-    <a href="mailto:mihai.balaur23@gmail.com">S</a>
-
 </p>
 
-
-
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact
-
-  -->
+-  E-mail Adress:  
