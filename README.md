@@ -1,23 +1,42 @@
-<h1 align="center"> Hi there! I'm Mihai <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<h1 align="center"> 
+    Hi there! I'm Mihai <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+</h1>
 
-### About me ✍️
-<p align="left">I'm a 25-year old software developer, based in Romania. </p>
+## About me ✍️
+<p align="left">
+    I'm a 25-year old software developer, based in Romania.
+    🎬 I'm
+💪🏽
+</p>
+
 <!--   who likes to build new projects using different technologies. Fast learner. I enjoy the process of studying about anything that I need in order to solve a problem. -->
 
 🎬
-## <h3 align="left"> Contact 📧 </h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/mihaibalaur/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mihaibalaur/" height="30" width="40" /></a>
-</p>
 💪🏽
 
 ## Tools & Technologies ⚙
 
+**Web Development:** `Python` `MySQL` `Flask` `FastAPI`
+ 
+**Version Control:** `Git` `GitLab`
+
+**Testing:** `Cypress` `Postman` 
+
+**Infrastructure:** `Docker` `Kubernetes`
+
+**Others:** `PowerBI` `Excel - Exploratory Data Analysis`
+
+## Contact 📧
+<p align="left">
+    <a href="https://www.linkedin.com/in/mihaibalaur/" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+            alt="https://www.linkedin.com/in/mihaibalaur/" height="30" width="40" />
+    </a>
+</p>
+
+
+
 <!--
-**mihaibalaur/mihaibalaur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
 
 Here are some ideas to get you started:
 
@@ -29,4 +48,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact
--->
+
+  -->
