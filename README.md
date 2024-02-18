@@ -5,7 +5,7 @@
 ## About me ✍️
 -  I'm a 25-year old software developer, based in Romania.
 
-!<--
+<!--
 -  In my free time, I enjoy hitting the gym 💪🏽
 -  I enjoy watching horror movies 🎬
 -->
@@ -30,4 +30,4 @@
     </a>
 </p>
 
--  E-mail Adress:  
+-  E-mail Adress: mihai.balaur23@gmail.com
