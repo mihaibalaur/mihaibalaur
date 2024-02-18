@@ -4,7 +4,7 @@
 <p align="left">I'm a 25-year old software developer, based in Romania. </p>
 <!--   who likes to build new projects using different technologies. Fast learner. I enjoy the process of studying about anything that I need in order to solve a problem. -->
 
-
+🎬
 ## <h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mihaibalaur/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mihaibalaur/" height="30" width="40" /></a>
