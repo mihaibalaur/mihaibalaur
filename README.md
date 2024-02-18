@@ -1,4 +1,4 @@
-# <h1 align="center"> Hi there! I'm Mihai 👋 </h1>
+<h1 align="center"> Hi there! I'm Mihai 👋 </h1>
 
 # <h3 align="left"> About me ✍️ </h3> ##
 <p align="left">I'm a 25-year old software developer, based in Romania. </p>
