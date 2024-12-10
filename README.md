@@ -12,7 +12,7 @@
 
 ## Tools & Technologies ⚙
 
-**Web Development:** `Python` `MySQL` `Flask` `FastAPI`
+**Web Development:** `Python` `MariaDB` `Flask` `FastAPI`
  
 **Version Control:** `Git` `GitLab`
 
