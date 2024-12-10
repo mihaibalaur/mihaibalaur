@@ -3,7 +3,7 @@
 </h1>
 
 ## About me ✍️
--  I'm a 25-year old software developer, based in Bucharest, Romania.
+-  I'm a 26-year old software developer, based in Bucharest, Romania.
 
 <!--
 -  In my free time, I enjoy hitting the gym 💪🏽
