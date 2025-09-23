@@ -12,7 +12,11 @@
 
 ## Tools & Technologies ⚙
 
-**Web Development:** `Python` `MariaDB` `Flask` `FastAPI`
+**Back-End Development:** `Python` `FastAPI` `Flask`
+
+**Web Development:**  `JavaScript` `TypeScript` `HTML5` `CSS`
+
+**Database & Storage:** `MariaDB`
  
 **Version Control:** `Git` `GitLab`
 
