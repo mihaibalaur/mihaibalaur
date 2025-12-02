@@ -3,7 +3,7 @@
 </h1>
 
 ## About me ✍️
--  I'm a 26-year old software developer, based in Bucharest, Romania.
+-  I'm a 27-year old software developer, based in Bucharest, Romania.
 
 <!--
 -  In my free time, I enjoy hitting the gym 💪🏽
@@ -12,19 +12,25 @@
 
 ## Tools & Technologies ⚙
 
+**Programming Languages** `Python` `Java(Basic)` ``
+
 **Back-End Development:** `Python` `FastAPI` `Flask`
+
+**Front-End Development:** `
 
 **Web Development:**  `JavaScript` `TypeScript` `HTML5` `CSS`
 
-**Database & Storage:** `MariaDB`
+**Database & Storage:** `MariaDB` `PostgreSQL1`
  
 **Version Control:** `Git` `GitLab`
 
 **Infrastructure:** `Docker` `Kubernetes`
 
-**Testing:** `Cypress` `Postman` 
+**Testing:** `Cypress` `Postman` `Pytest` 
 
 **Others:** `PowerBI` `Excel - Exploratory Data Analysis`
+
+
 
 ## Contact 📧
 <p align="left">
