@@ -28,7 +28,7 @@
 
 **Testing:** `Cypress` `Postman` `Pytest` 
 
-**Others:** `PowerBI` `Excel - Exploratory Data Analysis`
+**Others:** `Pandas (Python)` `PowerBI` `Excel - Exploratory Data Analysis`
 
 
 
