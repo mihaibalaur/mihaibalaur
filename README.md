@@ -12,11 +12,11 @@
 
 ## Tools & Technologies ⚙
 
-**Programming Languages** `Python` `Java(Basic)` ``
+**Programming Languages** `Python` `Java(Basic)` 
 
 **Back-End Development:** `Python` `FastAPI` `Flask`
 
-**Front-End Development:** `
+**Front-End Development:** `React.js`
 
 **Web Development:**  `JavaScript` `TypeScript` `HTML5` `CSS`
 
